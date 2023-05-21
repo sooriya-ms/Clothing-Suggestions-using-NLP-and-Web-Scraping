@@ -19,4 +19,11 @@ Giving the top 10 results <br>
 I also made a function to deploy it on a cloud platform like Google Cloud Functions, etc.
 
 ## Click ME
+It will get you in Youtube...
 [![Clothing Suggestion video](https://github.com/sooriya-ms/Clothing-Suggestions-using-NLP-and-Web-Scraping/blob/main/Images/image.png)](https://youtu.be/_ZfxF_qD7c0)
+
+## Running Process
+1.  Install the required libraries 
+2.  Run the scrapper.py file
+3.  In clothing_suggestion.ipynb run the first two and last two cells of code.
+4.  Give the input sentence, you will be given back the top 10 results with their links.
