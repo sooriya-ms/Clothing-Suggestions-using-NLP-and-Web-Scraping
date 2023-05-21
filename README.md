@@ -17,3 +17,6 @@ Finding Similarities <br>
 Giving the top 10 results <br>
 
 I also made a function to deploy it on a cloud platform like Google Cloud Functions, etc.
+
+## Click ME
+[![Clothing Suggestion video](https://github.com/sooriya-ms/Clothing-Suggestions-using-NLP-and-Web-Scraping/blob/main/Images/image.png)](https://youtu.be/_ZfxF_qD7c0)
