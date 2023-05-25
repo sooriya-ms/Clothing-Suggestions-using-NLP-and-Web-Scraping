@@ -25,5 +25,5 @@ It will get you in Youtube...
 ## Running Process
 1.  Install the required libraries 
 2.  Run the scrapper.py file
-3.  In clothing_suggestion.ipynb run the first two and last two cells of code.
+3.  Run the complete working code cell in ipynb file.
 4.  Give the input sentence, you will be given back the top 10 results with their links.
